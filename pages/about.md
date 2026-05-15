@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Isabelle Chau Artist Biography
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Isabelle “Belle” Chau is a multimedia artist from Phoenixville, Pennsylvania. She recently graduated with a BFA in Studio Arts: Sculpture from Rochester Institute of Technology. She identifies as a Vietnamese-American artist who explores identity and personal boundaries through materiality and process. Belle investigates spatial relationships through the ineffable expression of shape and form. She utilizes a myriad of materials including insulation foam, steel, reed, and found objects. She is inspired by the organic shapes of nature recording her thoughts and life. Her work has been featured in a group exhibition At Work at the Yards as well as a Capstone exhibition For Bà Bà at RIT City Art Space.
